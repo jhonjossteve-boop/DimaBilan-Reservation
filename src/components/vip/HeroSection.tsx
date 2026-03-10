@@ -70,14 +70,14 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onUnlock, isUnlocking, setIsU
             <div className="inline-flex items-center justify-center w-20 h-20 rounded-full border-2 border-[#d4af37]/40 mb-4"
               style={{ background: 'rgba(212,175,55,0.08)' }}>
               <span className="font-playfair text-3xl font-bold text-[#d4af37] gold-text-glow">
-                D.B.
+                Дима Билан
               </span>
             </div>
           </div>
 
           {/* Title */}
           <h1 className="font-playfair text-3xl sm:text-4xl font-bold text-white mb-2 animate-fade-in-up tracking-wide">
-            D.B. Exclusive Reservations
+            Дима Билан Exclusive Reservations
           </h1>
 
           <GoldDivider width="w-32" className="animate-fade-in-up-delay-1" />
